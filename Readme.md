@@ -1,6 +1,6 @@
 # Личный проект «Таинственный отпуск» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Георгий Баранов](https://up.htmlacademy.ru/animation/1/user/881615).
+* Студент: [Георгий Баранов](https://up.htmlacademy.ru/animation/1/user/881615). Привет-привет
 
 ---
 
